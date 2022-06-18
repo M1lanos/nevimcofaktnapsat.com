@@ -1,1 +1,0 @@
-# nevimcofaktnapsat.com
