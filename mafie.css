@@ -1,0 +1,100 @@
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 4em;
+    color: red;
+    font-family: mafie;
+}
+
+@font-face {
+    font-family: "mafie";
+    src: url(./styly/Mafia-Italic.ttf);
+}
+@font-face {
+    font-family: "podnadpis";
+    src: url(./styly/Mafia.ttf);
+}
+
+body{
+    background-color: black;
+    color: white; 
+
+}
+
+.ol2 {
+    text-align: center;
+    list-style-position: inside;
+    color: red;
+    font-family: podnadpis;
+    margin-top: 2%;
+    font-size: 140%;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 200%;
+    font-family:'Times New Roman', Times, serif;
+}
+img {
+    border: 5px;
+    border:solid;
+    color:white
+}
+.divmafie1 {
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 4%;
+    margin-right: 10%;
+    font-size: 150%;
+}
+
+.prvniobrazek {
+    margin-top: 10%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 50%;
+
+}
+
+.druhyobrazek {
+    margin-top: 10%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 40%;
+
+}
+
+.divmafie2 {
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 4%;
+    margin-right: 10%;
+    font-size: 150%;
+    margin-bottom: 7em;
+    }
+
+    a {
+        margin-top: 5%;
+        text-decoration: none;
+        color: white;
+        font-size: 300%;
+        border-style:solid;
+        border-radius: 10px;
+        font-family: 'Courier New', Courier, monospace;
+        margin-bottom: 10px;
+        
+    }    
+    a:hover {
+        color:rgb(255, 0, 0)
+    } 
+
+    body {
+        text-align: center;
+    }
+
+    .center {
+        margin-bottom: 6em;
+    }

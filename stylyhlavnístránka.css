@@ -1,0 +1,138 @@
+h1 {
+    font-family: classicnadpis;
+    font-size: 4em;
+    margin-top: 30px;
+    text-align: center;
+    color: rgb(49, 36, 36)
+        
+}
+h3 {
+    padding: 0 1em;
+}
+div {
+    text-align: center;
+    font-size: 30px;
+    margin-left: 5%;
+    margin-right: 45%;
+    margin-top: 5%;
+    color: rgb(49, 36, 36);
+}
+body {
+    background-color: rgb(208, 222, 221)
+    
+}
+.vávra {
+    margin-top: -24em;
+    margin-left: 60%;
+    width: 30%;
+
+
+}
+
+@font-face {
+    font-family: "classicnadpis";
+    src: url(./styly/classicpísmo.ttf);
+    }
+
+@font-face {
+    font-family: "stredoveke";
+    src: url(./styly/Beyond\ Wonderland.ttf);
+}
+@font-face {
+    font-family: "mafiefont";
+    src: url(./styly/Mafia-Italic.ttf);
+}
+@font-face {
+    font-family: "war";
+    src: url(./styly/The\ Second\ World\ War.ttf);
+}
+
+ul {
+    text-align: center;
+    margin-top: 6em;
+    
+  }
+  
+  ul li {
+    list-style:none;
+    display: inline-block;
+    
+   
+  }
+  
+  ul li a {
+    display: block;
+    text-decoration: none; 
+    color: rgb(49, 36, 36); 
+    font-size: 250%;
+    padding: 0 20px;
+  }
+  
+  ul li a:hover{
+    color:white;
+    border-style:solid;
+    border-width: 2px;
+    }
+
+#stredoveke {
+    font-family: stredoveke;
+}
+#mafiefont {
+    font-family: mafiefont;
+}
+#war {
+    font-family: war;
+}
+
+
+div {
+    font-family: classicnadpis;
+
+}
+
+ol {
+    text-align: right;
+    margin-top: 5%;
+    font-family: classicnadpis;
+}
+
+ol li {
+    list-style: none;
+}
+
+ol li a{
+    text-decoration: none;
+    color: rgb(49, 36, 36);
+    font-size: 200%;
+
+}
+
+ol li a:hover {
+   color:red;
+    margin-top: 2em;
+    border-style:solid;
+    border-width: 1px;
+
+}
+
+#ig {
+    color: rgb(252, 9, 240);
+}
+
+#twitter {
+    color:rgb(0, 238, 255)
+}
+#youtube {
+    color:red
+}
+
+#facebook {
+    color:blue
+}
+
+img{
+    border: 5px;
+    border:solid;
+    color:white
+}
+

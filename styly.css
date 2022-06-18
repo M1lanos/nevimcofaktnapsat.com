@@ -1,0 +1,84 @@
+
+@font-face {
+    font-family: "Classic";
+    src: url(./styly/Beyond\ Wonderland.ttf);
+}
+@font-face {
+    font-family: "classic2";
+    src: url(./styly/Beyond\ Wonderland.ttf);
+}
+h1 {
+    font-family: classic2;
+    text-align: center;
+    font-size: 2cm;
+    font-weight: 200;
+   
+    
+    
+
+}
+h1 {
+    margin-top:17px;
+    margin-bottom: 10px;
+
+}
+h2 {
+    margin-top: 5em
+}
+
+body { 
+background: url(./img/wallpapersden.com_kingdom-come-deliverance_3840x2160.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position-x: center;
+background-position-y: 100%;
+background-color: black;
+text-align: center;
+    font-size: 30px;
+color:white;
+margin-left: 20%;
+margin-right: 20%;
+
+
+}
+
+.velikost {
+ font-size: 32px;
+ font-family: classic2;
+}
+
+table {
+    border: 5em;
+    color: rgb(241, 241, 241);
+    border-collapse:collapse;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+#ramovani {
+    border: 2px solid white;
+}
+
+
+div {
+    margin-top: 7%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+a {
+    margin-top: 10%;
+    text-decoration: none;
+    color: white;
+    font-size: 150%;
+    border-style:solid;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+a:hover {
+    color:rgb(255, 136, 0)
+} 
